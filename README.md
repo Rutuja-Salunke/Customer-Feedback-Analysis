@@ -10,3 +10,5 @@ Key Highlights:
 🌐 Global Perspective: With the ability to analyze feedback from various touchpoints, gain a comprehensive view of the customer journey, ensuring a consistent and exceptional experience across all channels. 🌍
 
 🔍 Deep Dive Analysis: The interactive dashboards allows to drill down into specific areas, identifying trends, patterns, and opportunities for improvement. 🕵️‍♂️
+![powerBi2](https://github.com/Rutuja-Salunke/Customer-Feedback-Analysis/assets/102023809/8501b11e-cb12-4a41-91ed-eb121099310c)
+
